@@ -100,7 +100,9 @@ class TestL10nEsAeatSii(common.TransactionCase):
                 'l10n_es.account_chart_template_pymes').id,
             'vat': 'ESU2687761C',
         })
-        self.invoice.signal_workflow('invoice_open')
+        # MODIFICADO
+        #self.invoice.signal_workflow('invoice_open')
+        self.invoice.signal_workflow('action_invoice_open')
 
     def test_job_creation(self):
         self._open_invoice()
