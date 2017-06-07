@@ -3,7 +3,7 @@
    :alt: License: AGPL-3
 
 ==============
-Suministro Inmediato de Información en el IVA
+Suministro Inmediato de Información en el IVA - FASE PRUEBAS - MIGRACIÓN A ODOO 10.0
 ==============
 
 Módulo para la presentación inmediata del IVA
