@@ -6,7 +6,7 @@
 # License AGPL-3.0 or later (http://www.gnu.org/licenses/agpl).
 {
     "name": "Suministro Inmediato de Información en el IVA",
-    "version": "10.0.1.0.25",
+    "version": "10.0.1.0.0",
     "category": "Accounting & Finance",
     "website": "https://odoo-community.org/",
     "author": "Jose Piera - DissenyCullera, Odoo Community Association (OCA)",
